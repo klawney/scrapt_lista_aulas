@@ -1,0 +1,1532 @@
+[
+  {
+    "id_sequencial": 1,
+    "nome_modulo": "Módulo 1",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Course Introduction",
+    "status": "",
+    "metadados": "1 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/RqJUn/course-introduction"
+  },
+  {
+    "id_sequencial": 2,
+    "nome_modulo": "Módulo 1",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Meet your Instructor",
+    "status": "",
+    "metadados": "1 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/1TFuc/meet-your-instructor"
+  },
+  {
+    "id_sequencial": 3,
+    "nome_modulo": "Módulo 1",
+    "tipo_conteudo": "link selecionado",
+    "titulo": "Leitura",
+    "status": "",
+    "metadados": "Concluído, 30 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/supplement/EAsHt/syllabus"
+  },
+  {
+    "id_sequencial": 4,
+    "nome_modulo": "Módulo 1",
+    "tipo_conteudo": "Tema de discussão",
+    "titulo": "Meet and Greet",
+    "status": "",
+    "metadados": "10 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/discussionPrompt/rtkGM/meet-and-greet"
+  },
+  {
+    "id_sequencial": 5,
+    "nome_modulo": "Módulo 1",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "What you will learn in this Lesson",
+    "status": "",
+    "metadados": "1 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/B5JR5/what-you-will-learn-in-this-lesson"
+  },
+  {
+    "id_sequencial": 6,
+    "nome_modulo": "Módulo 1",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Introduction to ASP.NET Core",
+    "status": "",
+    "metadados": "2 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/QHm6M/introduction-to-asp-net-core"
+  },
+  {
+    "id_sequencial": 7,
+    "nome_modulo": "Módulo 1",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "ASP.NET Core Project Folder Structure",
+    "status": "",
+    "metadados": "4 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/3FKIw/asp-net-core-project-folder-structure"
+  },
+  {
+    "id_sequencial": 8,
+    "nome_modulo": "Módulo 1",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Demo: Building a Web Application using ASP.NET Core",
+    "status": "",
+    "metadados": "3 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/YELZ5/demo-building-a-web-application-using-asp-net-core"
+  },
+  {
+    "id_sequencial": 9,
+    "nome_modulo": "Módulo 1",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Understanding MVC Pattern",
+    "status": "",
+    "metadados": "5 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/BoeVc/understanding-mvc-pattern"
+  },
+  {
+    "id_sequencial": 10,
+    "nome_modulo": "Módulo 1",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Model-View-Controller Communication",
+    "status": "",
+    "metadados": "5 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/prpxY/model-view-controller-communication"
+  },
+  {
+    "id_sequencial": 11,
+    "nome_modulo": "Módulo 1",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Demo: Handling Requests in .NET Core MVC Core",
+    "status": "",
+    "metadados": "3 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/2j27v/demo-handling-requests-in-net-core-mvc-core"
+  },
+  {
+    "id_sequencial": 12,
+    "nome_modulo": "Módulo 1",
+    "tipo_conteudo": "Leitura",
+    "titulo": "Further Reading on Developing web application",
+    "status": "",
+    "metadados": "30 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/supplement/CPSic/further-reading-on-developing-web-application"
+  },
+  {
+    "id_sequencial": 13,
+    "nome_modulo": "Módulo 1",
+    "tipo_conteudo": "Praticar tarefa",
+    "titulo": "Practice Quiz",
+    "status": "",
+    "metadados": "Nota: 100%",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/assignment-submission/MNmnx/practice-quiz"
+  },
+  {
+    "id_sequencial": 14,
+    "nome_modulo": "Módulo 1",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "What you will learn in this Lesson",
+    "status": "",
+    "metadados": "1 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/20hr7/what-you-will-learn-in-this-lesson"
+  },
+  {
+    "id_sequencial": 15,
+    "nome_modulo": "Módulo 1",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Action Methods and Result Types",
+    "status": "",
+    "metadados": "8 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/ECzq8/action-methods-and-result-types"
+  },
+  {
+    "id_sequencial": 16,
+    "nome_modulo": "Módulo 1",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Razor View Engine and Razor Syntax",
+    "status": "",
+    "metadados": "8 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/QjyWC/razor-view-engine-and-razor-syntax"
+  },
+  {
+    "id_sequencial": 17,
+    "nome_modulo": "Módulo 1",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Layout",
+    "status": "",
+    "metadados": "Concluído, 9 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/v6LPr/layout-sections-and-view-start"
+  },
+  {
+    "id_sequencial": 18,
+    "nome_modulo": "Módulo 1",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "HTML Helpers and Tag Helpers",
+    "status": "",
+    "metadados": "7 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/1dozK/html-helpers-and-tag-helpers"
+  },
+  {
+    "id_sequencial": 19,
+    "nome_modulo": "Módulo 1",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Convention Routing and Attribute Routing",
+    "status": "",
+    "metadados": "6 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/qdGGR/convention-routing-and-attribute-routing"
+  },
+  {
+    "id_sequencial": 20,
+    "nome_modulo": "Módulo 1",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Data Passing Techniques",
+    "status": "",
+    "metadados": "2 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/YnOEt/data-passing-techniques"
+  },
+  {
+    "id_sequencial": 21,
+    "nome_modulo": "Módulo 1",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "ViewBag and View Data",
+    "status": "",
+    "metadados": "8 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/XjccD/viewbag-and-view-data"
+  },
+  {
+    "id_sequencial": 22,
+    "nome_modulo": "Módulo 1",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Working with TempData",
+    "status": "",
+    "metadados": "8 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/AK5J4/working-with-tempdata"
+  },
+  {
+    "id_sequencial": 23,
+    "nome_modulo": "Módulo 1",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Sessions and State Management",
+    "status": "",
+    "metadados": "7 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/RU9iW/sessions-and-state-management"
+  },
+  {
+    "id_sequencial": 24,
+    "nome_modulo": "Módulo 1",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Working with QueryString",
+    "status": "",
+    "metadados": "5 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/6Yp0P/working-with-querystring"
+  },
+  {
+    "id_sequencial": 25,
+    "nome_modulo": "Módulo 1",
+    "tipo_conteudo": "Leitura",
+    "titulo": "Learn more about .Net Core Fundamentals",
+    "status": "",
+    "metadados": "30 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/supplement/1fQxD/learn-more-about-net-core-fundamentals"
+  },
+  {
+    "id_sequencial": 26,
+    "nome_modulo": "Módulo 1",
+    "tipo_conteudo": "Praticar tarefa",
+    "titulo": "Practice Quiz: ASP.NET Core Fundamentals",
+    "status": "",
+    "metadados": "30 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/assignment-submission/7Ym9c/practice-quiz-asp-net-core-fundamentals"
+  },
+  {
+    "id_sequencial": 27,
+    "nome_modulo": "Módulo 1",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "What you will learn in this Lesson",
+    "status": "",
+    "metadados": "1 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/16ikA/what-you-will-learn-in-this-lesson"
+  },
+  {
+    "id_sequencial": 28,
+    "nome_modulo": "Módulo 1",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "ASP.NET Core Forms",
+    "status": "",
+    "metadados": "4 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/8s9HO/asp-net-core-forms"
+  },
+  {
+    "id_sequencial": 29,
+    "nome_modulo": "Módulo 1",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Demo: Weakly Typed Forms",
+    "status": "",
+    "metadados": "6 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/SLuJb/demo-weakly-typed-forms"
+  },
+  {
+    "id_sequencial": 30,
+    "nome_modulo": "Módulo 1",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Demo: Strongly Typed Forms",
+    "status": "",
+    "metadados": "8 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/ptNk9/demo-strongly-typed-forms"
+  },
+  {
+    "id_sequencial": 31,
+    "nome_modulo": "Módulo 1",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Model Binding",
+    "status": "",
+    "metadados": "8 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/JrOop/model-binding"
+  },
+  {
+    "id_sequencial": 32,
+    "nome_modulo": "Módulo 1",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Demo: Handling Forms Post",
+    "status": "",
+    "metadados": "4 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/MQiOr/demo-handling-forms-post"
+  },
+  {
+    "id_sequencial": 33,
+    "nome_modulo": "Módulo 1",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Forms Validations - Server Side and Client Side",
+    "status": "",
+    "metadados": "10 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/xoc63/forms-validations-server-side-and-client-side"
+  },
+  {
+    "id_sequencial": 34,
+    "nome_modulo": "Módulo 1",
+    "tipo_conteudo": "Leitura",
+    "titulo": "Further Reading on Forms and Validation",
+    "status": "",
+    "metadados": "30 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/supplement/tMMq4/further-reading-on-forms-and-validation"
+  },
+  {
+    "id_sequencial": 35,
+    "nome_modulo": "Módulo 1",
+    "tipo_conteudo": "Praticar tarefa",
+    "titulo": "Practice Quiz: ASP.NET Core Forms and Validation",
+    "status": "",
+    "metadados": "30 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/assignment-submission/8DOLZ/practice-quiz-asp-net-core-forms-and-validation"
+  },
+  {
+    "id_sequencial": 36,
+    "nome_modulo": "Módulo 1",
+    "tipo_conteudo": "Tarefa valendo nota",
+    "titulo": "Graded Quiz",
+    "status": "",
+    "metadados": "1h",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/assignment-submission/AOIh7/graded-quiz"
+  },
+  {
+    "id_sequencial": 37,
+    "nome_modulo": "Módulo 1",
+    "tipo_conteudo": "Leitura",
+    "titulo": "Tell us what you think!",
+    "status": "",
+    "metadados": "10 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/supplement/g9fVW/tell-us-what-you-think"
+  },
+  {
+    "id_sequencial": 38,
+    "nome_modulo": "Módulo 2",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "What you will learn in this Lesson",
+    "status": "",
+    "metadados": "57 sec",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/wJSRV/what-you-will-learn-in-this-lesson"
+  },
+  {
+    "id_sequencial": 39,
+    "nome_modulo": "Módulo 2",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Middleware Request Pipeline",
+    "status": "",
+    "metadados": "4 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/qNmDB/middleware-request-pipeline"
+  },
+  {
+    "id_sequencial": 40,
+    "nome_modulo": "Módulo 2",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Built-In Middleware and Custom Middleware",
+    "status": "",
+    "metadados": "2 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/4Dt45/built-in-middleware-and-custom-middleware"
+  },
+  {
+    "id_sequencial": 41,
+    "nome_modulo": "Módulo 2",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Dependency Injection (DI)",
+    "status": "",
+    "metadados": "3 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/DWxig/dependency-injection-di"
+  },
+  {
+    "id_sequencial": 42,
+    "nome_modulo": "Módulo 2",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Demo: Implementing DI in ASP.NET Core",
+    "status": "",
+    "metadados": "5 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/egd37/demo-implementing-di-in-asp-net-core"
+  },
+  {
+    "id_sequencial": 43,
+    "nome_modulo": "Módulo 2",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "ASP.NET Core Environments",
+    "status": "",
+    "metadados": "4 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/skkZ3/asp-net-core-environments"
+  },
+  {
+    "id_sequencial": 44,
+    "nome_modulo": "Módulo 2",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Exceptions Handling and Logging",
+    "status": "",
+    "metadados": "3 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/sXMLU/exceptions-handling-and-logging"
+  },
+  {
+    "id_sequencial": 45,
+    "nome_modulo": "Módulo 2",
+    "tipo_conteudo": "Leitura",
+    "titulo": "Learn More about MVC",
+    "status": "",
+    "metadados": "30 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/supplement/BHl1U/learn-more-about-mvc"
+  },
+  {
+    "id_sequencial": 46,
+    "nome_modulo": "Módulo 2",
+    "tipo_conteudo": "Praticar tarefa",
+    "titulo": "Practice Quiz",
+    "status": "",
+    "metadados": "30 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/assignment-submission/UmvlB/practice-quiz"
+  },
+  {
+    "id_sequencial": 47,
+    "nome_modulo": "Módulo 2",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "What you will learn in this Lesson",
+    "status": "",
+    "metadados": "42 sec",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/WSyBn/what-you-will-learn-in-this-lesson"
+  },
+  {
+    "id_sequencial": 48,
+    "nome_modulo": "Módulo 2",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Introduction to Entity Framework Core as ORM",
+    "status": "",
+    "metadados": "7 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/qBHnT/introduction-to-entity-framework-core-as-orm"
+  },
+  {
+    "id_sequencial": 49,
+    "nome_modulo": "Módulo 2",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Configuring Entity Framework Core in MVC Application",
+    "status": "",
+    "metadados": "3 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/e8nyF/configuring-entity-framework-core-in-mvc-application"
+  },
+  {
+    "id_sequencial": 50,
+    "nome_modulo": "Módulo 2",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Developing Application with Code First Approach",
+    "status": "",
+    "metadados": "9 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/pJNpA/developing-application-with-code-first-approach"
+  },
+  {
+    "id_sequencial": 51,
+    "nome_modulo": "Módulo 2",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Developing Application with Database First Approach",
+    "status": "",
+    "metadados": "7 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/WLwuL/developing-application-with-database-first-approach"
+  },
+  {
+    "id_sequencial": 52,
+    "nome_modulo": "Módulo 2",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Demo: Code First Approach CRUD Operations",
+    "status": "",
+    "metadados": "10 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/SwIPm/demo-code-first-approach-crud-operations"
+  },
+  {
+    "id_sequencial": 53,
+    "nome_modulo": "Módulo 2",
+    "tipo_conteudo": "Leitura",
+    "titulo": "Further Reading Entity Framework",
+    "status": "",
+    "metadados": "30 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/supplement/mYW89/further-reading-entity-framework"
+  },
+  {
+    "id_sequencial": 54,
+    "nome_modulo": "Módulo 2",
+    "tipo_conteudo": "Praticar tarefa",
+    "titulo": "Practice Quiz",
+    "status": "",
+    "metadados": "30 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/assignment-submission/lWWYe/practice-quiz"
+  },
+  {
+    "id_sequencial": 55,
+    "nome_modulo": "Módulo 2",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "What you will learn in this Lesson",
+    "status": "",
+    "metadados": "1 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/JmbrF/what-you-will-learn-in-this-lesson"
+  },
+  {
+    "id_sequencial": 56,
+    "nome_modulo": "Módulo 2",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Authentication in Web Application",
+    "status": "",
+    "metadados": "8 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/E5YMg/authentication-in-web-application"
+  },
+  {
+    "id_sequencial": 57,
+    "nome_modulo": "Módulo 2",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Authorization in Web Application",
+    "status": "",
+    "metadados": "3 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/s7Ogk/authorization-in-web-application"
+  },
+  {
+    "id_sequencial": 58,
+    "nome_modulo": "Módulo 2",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Identity Core Security in Asp.Net Core Application",
+    "status": "",
+    "metadados": "11 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/nAslL/identity-core-security-in-asp-net-core-application"
+  },
+  {
+    "id_sequencial": 59,
+    "nome_modulo": "Módulo 2",
+    "tipo_conteudo": "Leitura",
+    "titulo": "Learn More on Pipeline and Security",
+    "status": "",
+    "metadados": "30 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/supplement/v5NtI/learn-more-on-pipeline-and-security"
+  },
+  {
+    "id_sequencial": 60,
+    "nome_modulo": "Módulo 2",
+    "tipo_conteudo": "Praticar tarefa",
+    "titulo": "Practice Quiz",
+    "status": "",
+    "metadados": "30 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/assignment-submission/DVthN/practice-quiz"
+  },
+  {
+    "id_sequencial": 61,
+    "nome_modulo": "Módulo 2",
+    "tipo_conteudo": "Tarefa valendo nota",
+    "titulo": "Graded Quiz",
+    "status": "",
+    "metadados": "1h",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/assignment-submission/OG768/graded-quiz"
+  },
+  {
+    "id_sequencial": 62,
+    "nome_modulo": "Módulo 3",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "What you will learn in this Lesson",
+    "status": "",
+    "metadados": "1 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/ExFaK/what-you-will-learn-in-this-lesson"
+  },
+  {
+    "id_sequencial": 63,
+    "nome_modulo": "Módulo 3",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Introduction to SOA",
+    "status": "",
+    "metadados": "4 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/DBtUS/introduction-to-soa"
+  },
+  {
+    "id_sequencial": 64,
+    "nome_modulo": "Módulo 3",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Introduction to REST",
+    "status": "",
+    "metadados": "5 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/lIJgU/introduction-to-rest"
+  },
+  {
+    "id_sequencial": 65,
+    "nome_modulo": "Módulo 3",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Introduction to ASP.NET Web API",
+    "status": "",
+    "metadados": "3 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/9U5NX/introduction-to-asp-net-web-api"
+  },
+  {
+    "id_sequencial": 66,
+    "nome_modulo": "Módulo 3",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "WCF vs. Web API",
+    "status": "",
+    "metadados": "2 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/prdAF/wcf-vs-web-api"
+  },
+  {
+    "id_sequencial": 67,
+    "nome_modulo": "Módulo 3",
+    "tipo_conteudo": "Leitura",
+    "titulo": "Further Reading on Web API",
+    "status": "",
+    "metadados": "30 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/supplement/Mo4jd/further-reading-on-web-api"
+  },
+  {
+    "id_sequencial": 68,
+    "nome_modulo": "Módulo 3",
+    "tipo_conteudo": "Praticar tarefa",
+    "titulo": "Practice Quiz",
+    "status": "",
+    "metadados": "30 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/assignment-submission/WWUOX/practice-quiz"
+  },
+  {
+    "id_sequencial": 69,
+    "nome_modulo": "Módulo 3",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "What you will learn in this Lesson",
+    "status": "",
+    "metadados": "1 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/LZmfN/what-you-will-learn-in-this-lesson"
+  },
+  {
+    "id_sequencial": 70,
+    "nome_modulo": "Módulo 3",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Building ASP.NET Web API",
+    "status": "",
+    "metadados": "4 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/mqIFy/building-asp-net-web-api"
+  },
+  {
+    "id_sequencial": 71,
+    "nome_modulo": "Módulo 3",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Creating Database for Web API",
+    "status": "",
+    "metadados": "6 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/Hb9OB/creating-database-for-web-api"
+  },
+  {
+    "id_sequencial": 72,
+    "nome_modulo": "Módulo 3",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "ASP.NET Web API CRUD Operations",
+    "status": "",
+    "metadados": "11 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/Xg550/asp-net-web-api-crud-operations"
+  },
+  {
+    "id_sequencial": 73,
+    "nome_modulo": "Módulo 3",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Testing Web API Using Postman",
+    "status": "",
+    "metadados": "7 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/vx1n5/testing-web-api-using-postman"
+  },
+  {
+    "id_sequencial": 74,
+    "nome_modulo": "Módulo 3",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Consuming Web API in ASP.NET MVC",
+    "status": "",
+    "metadados": "8 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/tzMsn/consuming-web-api-in-asp-net-mvc"
+  },
+  {
+    "id_sequencial": 75,
+    "nome_modulo": "Módulo 3",
+    "tipo_conteudo": "Leitura",
+    "titulo": "Learn More on CRUD Operations",
+    "status": "",
+    "metadados": "30 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/supplement/8C8tg/learn-more-on-crud-operations"
+  },
+  {
+    "id_sequencial": 76,
+    "nome_modulo": "Módulo 3",
+    "tipo_conteudo": "Praticar tarefa",
+    "titulo": "Practice Quiz",
+    "status": "",
+    "metadados": "30 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/assignment-submission/gyNDB/practice-quiz"
+  },
+  {
+    "id_sequencial": 77,
+    "nome_modulo": "Módulo 3",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "What you will learn in this Lesson",
+    "status": "",
+    "metadados": "1 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/KEmG2/what-you-will-learn-in-this-lesson"
+  },
+  {
+    "id_sequencial": 78,
+    "nome_modulo": "Módulo 3",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Routing",
+    "status": "",
+    "metadados": "7 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/wAKjD/routing"
+  },
+  {
+    "id_sequencial": 79,
+    "nome_modulo": "Módulo 3",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Route Constraints",
+    "status": "",
+    "metadados": "7 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/MyHAG/route-constraints"
+  },
+  {
+    "id_sequencial": 80,
+    "nome_modulo": "Módulo 3",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Content Negotiation",
+    "status": "",
+    "metadados": "5 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/EsIMk/content-negotiation"
+  },
+  {
+    "id_sequencial": 81,
+    "nome_modulo": "Módulo 3",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Media Type Formatters",
+    "status": "",
+    "metadados": "2 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/6b0Ep/media-type-formatters"
+  },
+  {
+    "id_sequencial": 82,
+    "nome_modulo": "Módulo 3",
+    "tipo_conteudo": "Leitura",
+    "titulo": "Learn More on Routing and Binding",
+    "status": "",
+    "metadados": "30 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/supplement/wmcpa/learn-more-on-routing-and-binding"
+  },
+  {
+    "id_sequencial": 83,
+    "nome_modulo": "Módulo 3",
+    "tipo_conteudo": "Leitura",
+    "titulo": "Provide your feedback!",
+    "status": "",
+    "metadados": "10 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/supplement/Cmgbp/provide-your-feedback"
+  },
+  {
+    "id_sequencial": 84,
+    "nome_modulo": "Módulo 3",
+    "tipo_conteudo": "Praticar tarefa",
+    "titulo": "Practice Quiz",
+    "status": "",
+    "metadados": "30 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/assignment-submission/mk8iP/practice-quiz"
+  },
+  {
+    "id_sequencial": 85,
+    "nome_modulo": "Módulo 3",
+    "tipo_conteudo": "Tarefa valendo nota",
+    "titulo": "Graded Quiz",
+    "status": "",
+    "metadados": "1h",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/assignment-submission/ghYNR/graded-quiz"
+  },
+  {
+    "id_sequencial": 86,
+    "nome_modulo": "Módulo 4",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Course Introduction",
+    "status": "",
+    "metadados": "1 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/RqJUn/course-introduction"
+  },
+  {
+    "id_sequencial": 87,
+    "nome_modulo": "Módulo 4",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Meet your Instructor",
+    "status": "",
+    "metadados": "1 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/1TFuc/meet-your-instructor"
+  },
+  {
+    "id_sequencial": 88,
+    "nome_modulo": "Módulo 4",
+    "tipo_conteudo": "link selecionado",
+    "titulo": "Leitura",
+    "status": "",
+    "metadados": "Concluído, 30 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/supplement/EAsHt/syllabus"
+  },
+  {
+    "id_sequencial": 89,
+    "nome_modulo": "Módulo 4",
+    "tipo_conteudo": "Tema de discussão",
+    "titulo": "Meet and Greet",
+    "status": "",
+    "metadados": "10 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/discussionPrompt/rtkGM/meet-and-greet"
+  },
+  {
+    "id_sequencial": 90,
+    "nome_modulo": "Módulo 4",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "What you will learn in this Lesson",
+    "status": "",
+    "metadados": "1 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/B5JR5/what-you-will-learn-in-this-lesson"
+  },
+  {
+    "id_sequencial": 91,
+    "nome_modulo": "Módulo 4",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Introduction to ASP.NET Core",
+    "status": "",
+    "metadados": "2 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/QHm6M/introduction-to-asp-net-core"
+  },
+  {
+    "id_sequencial": 92,
+    "nome_modulo": "Módulo 4",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "ASP.NET Core Project Folder Structure",
+    "status": "",
+    "metadados": "4 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/3FKIw/asp-net-core-project-folder-structure"
+  },
+  {
+    "id_sequencial": 93,
+    "nome_modulo": "Módulo 4",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Demo: Building a Web Application using ASP.NET Core",
+    "status": "",
+    "metadados": "3 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/YELZ5/demo-building-a-web-application-using-asp-net-core"
+  },
+  {
+    "id_sequencial": 94,
+    "nome_modulo": "Módulo 4",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Understanding MVC Pattern",
+    "status": "",
+    "metadados": "5 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/BoeVc/understanding-mvc-pattern"
+  },
+  {
+    "id_sequencial": 95,
+    "nome_modulo": "Módulo 4",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Model-View-Controller Communication",
+    "status": "",
+    "metadados": "5 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/prpxY/model-view-controller-communication"
+  },
+  {
+    "id_sequencial": 96,
+    "nome_modulo": "Módulo 4",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Demo: Handling Requests in .NET Core MVC Core",
+    "status": "",
+    "metadados": "3 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/2j27v/demo-handling-requests-in-net-core-mvc-core"
+  },
+  {
+    "id_sequencial": 97,
+    "nome_modulo": "Módulo 4",
+    "tipo_conteudo": "Leitura",
+    "titulo": "Further Reading on Developing web application",
+    "status": "",
+    "metadados": "30 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/supplement/CPSic/further-reading-on-developing-web-application"
+  },
+  {
+    "id_sequencial": 98,
+    "nome_modulo": "Módulo 4",
+    "tipo_conteudo": "Praticar tarefa",
+    "titulo": "Practice Quiz",
+    "status": "",
+    "metadados": "Nota: 100%",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/assignment-submission/MNmnx/practice-quiz"
+  },
+  {
+    "id_sequencial": 99,
+    "nome_modulo": "Módulo 4",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "What you will learn in this Lesson",
+    "status": "",
+    "metadados": "1 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/20hr7/what-you-will-learn-in-this-lesson"
+  },
+  {
+    "id_sequencial": 100,
+    "nome_modulo": "Módulo 4",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Action Methods and Result Types",
+    "status": "",
+    "metadados": "8 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/ECzq8/action-methods-and-result-types"
+  },
+  {
+    "id_sequencial": 101,
+    "nome_modulo": "Módulo 4",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Razor View Engine and Razor Syntax",
+    "status": "",
+    "metadados": "8 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/QjyWC/razor-view-engine-and-razor-syntax"
+  },
+  {
+    "id_sequencial": 102,
+    "nome_modulo": "Módulo 4",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Layout",
+    "status": "",
+    "metadados": "Concluído, 9 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/v6LPr/layout-sections-and-view-start"
+  },
+  {
+    "id_sequencial": 103,
+    "nome_modulo": "Módulo 4",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "HTML Helpers and Tag Helpers",
+    "status": "",
+    "metadados": "7 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/1dozK/html-helpers-and-tag-helpers"
+  },
+  {
+    "id_sequencial": 104,
+    "nome_modulo": "Módulo 4",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Convention Routing and Attribute Routing",
+    "status": "",
+    "metadados": "6 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/qdGGR/convention-routing-and-attribute-routing"
+  },
+  {
+    "id_sequencial": 105,
+    "nome_modulo": "Módulo 4",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Data Passing Techniques",
+    "status": "",
+    "metadados": "2 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/YnOEt/data-passing-techniques"
+  },
+  {
+    "id_sequencial": 106,
+    "nome_modulo": "Módulo 4",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "ViewBag and View Data",
+    "status": "",
+    "metadados": "8 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/XjccD/viewbag-and-view-data"
+  },
+  {
+    "id_sequencial": 107,
+    "nome_modulo": "Módulo 4",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Working with TempData",
+    "status": "",
+    "metadados": "8 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/AK5J4/working-with-tempdata"
+  },
+  {
+    "id_sequencial": 108,
+    "nome_modulo": "Módulo 4",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Sessions and State Management",
+    "status": "",
+    "metadados": "7 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/RU9iW/sessions-and-state-management"
+  },
+  {
+    "id_sequencial": 109,
+    "nome_modulo": "Módulo 4",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Working with QueryString",
+    "status": "",
+    "metadados": "5 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/6Yp0P/working-with-querystring"
+  },
+  {
+    "id_sequencial": 110,
+    "nome_modulo": "Módulo 4",
+    "tipo_conteudo": "Leitura",
+    "titulo": "Learn more about .Net Core Fundamentals",
+    "status": "",
+    "metadados": "30 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/supplement/1fQxD/learn-more-about-net-core-fundamentals"
+  },
+  {
+    "id_sequencial": 111,
+    "nome_modulo": "Módulo 4",
+    "tipo_conteudo": "Praticar tarefa",
+    "titulo": "Practice Quiz: ASP.NET Core Fundamentals",
+    "status": "",
+    "metadados": "30 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/assignment-submission/7Ym9c/practice-quiz-asp-net-core-fundamentals"
+  },
+  {
+    "id_sequencial": 112,
+    "nome_modulo": "Módulo 4",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "What you will learn in this Lesson",
+    "status": "",
+    "metadados": "1 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/16ikA/what-you-will-learn-in-this-lesson"
+  },
+  {
+    "id_sequencial": 113,
+    "nome_modulo": "Módulo 4",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "ASP.NET Core Forms",
+    "status": "",
+    "metadados": "4 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/8s9HO/asp-net-core-forms"
+  },
+  {
+    "id_sequencial": 114,
+    "nome_modulo": "Módulo 4",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Demo: Weakly Typed Forms",
+    "status": "",
+    "metadados": "6 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/SLuJb/demo-weakly-typed-forms"
+  },
+  {
+    "id_sequencial": 115,
+    "nome_modulo": "Módulo 4",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Demo: Strongly Typed Forms",
+    "status": "",
+    "metadados": "8 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/ptNk9/demo-strongly-typed-forms"
+  },
+  {
+    "id_sequencial": 116,
+    "nome_modulo": "Módulo 4",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Model Binding",
+    "status": "",
+    "metadados": "8 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/JrOop/model-binding"
+  },
+  {
+    "id_sequencial": 117,
+    "nome_modulo": "Módulo 4",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Demo: Handling Forms Post",
+    "status": "",
+    "metadados": "4 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/MQiOr/demo-handling-forms-post"
+  },
+  {
+    "id_sequencial": 118,
+    "nome_modulo": "Módulo 4",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Forms Validations - Server Side and Client Side",
+    "status": "",
+    "metadados": "10 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/xoc63/forms-validations-server-side-and-client-side"
+  },
+  {
+    "id_sequencial": 119,
+    "nome_modulo": "Módulo 4",
+    "tipo_conteudo": "Leitura",
+    "titulo": "Further Reading on Forms and Validation",
+    "status": "",
+    "metadados": "30 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/supplement/tMMq4/further-reading-on-forms-and-validation"
+  },
+  {
+    "id_sequencial": 120,
+    "nome_modulo": "Módulo 4",
+    "tipo_conteudo": "Praticar tarefa",
+    "titulo": "Practice Quiz: ASP.NET Core Forms and Validation",
+    "status": "",
+    "metadados": "30 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/assignment-submission/8DOLZ/practice-quiz-asp-net-core-forms-and-validation"
+  },
+  {
+    "id_sequencial": 121,
+    "nome_modulo": "Módulo 4",
+    "tipo_conteudo": "Tarefa valendo nota",
+    "titulo": "Graded Quiz",
+    "status": "",
+    "metadados": "1h",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/assignment-submission/AOIh7/graded-quiz"
+  },
+  {
+    "id_sequencial": 122,
+    "nome_modulo": "Módulo 4",
+    "tipo_conteudo": "Leitura",
+    "titulo": "Tell us what you think!",
+    "status": "",
+    "metadados": "10 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/supplement/g9fVW/tell-us-what-you-think"
+  },
+  {
+    "id_sequencial": 123,
+    "nome_modulo": "Módulo 5",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "What you will learn in this Lesson",
+    "status": "",
+    "metadados": "57 sec",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/wJSRV/what-you-will-learn-in-this-lesson"
+  },
+  {
+    "id_sequencial": 124,
+    "nome_modulo": "Módulo 5",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Middleware Request Pipeline",
+    "status": "",
+    "metadados": "4 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/qNmDB/middleware-request-pipeline"
+  },
+  {
+    "id_sequencial": 125,
+    "nome_modulo": "Módulo 5",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Built-In Middleware and Custom Middleware",
+    "status": "",
+    "metadados": "2 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/4Dt45/built-in-middleware-and-custom-middleware"
+  },
+  {
+    "id_sequencial": 126,
+    "nome_modulo": "Módulo 5",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Dependency Injection (DI)",
+    "status": "",
+    "metadados": "3 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/DWxig/dependency-injection-di"
+  },
+  {
+    "id_sequencial": 127,
+    "nome_modulo": "Módulo 5",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Demo: Implementing DI in ASP.NET Core",
+    "status": "",
+    "metadados": "5 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/egd37/demo-implementing-di-in-asp-net-core"
+  },
+  {
+    "id_sequencial": 128,
+    "nome_modulo": "Módulo 5",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "ASP.NET Core Environments",
+    "status": "",
+    "metadados": "4 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/skkZ3/asp-net-core-environments"
+  },
+  {
+    "id_sequencial": 129,
+    "nome_modulo": "Módulo 5",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Exceptions Handling and Logging",
+    "status": "",
+    "metadados": "3 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/sXMLU/exceptions-handling-and-logging"
+  },
+  {
+    "id_sequencial": 130,
+    "nome_modulo": "Módulo 5",
+    "tipo_conteudo": "Leitura",
+    "titulo": "Learn More about MVC",
+    "status": "",
+    "metadados": "30 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/supplement/BHl1U/learn-more-about-mvc"
+  },
+  {
+    "id_sequencial": 131,
+    "nome_modulo": "Módulo 5",
+    "tipo_conteudo": "Praticar tarefa",
+    "titulo": "Practice Quiz",
+    "status": "",
+    "metadados": "30 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/assignment-submission/UmvlB/practice-quiz"
+  },
+  {
+    "id_sequencial": 132,
+    "nome_modulo": "Módulo 5",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "What you will learn in this Lesson",
+    "status": "",
+    "metadados": "42 sec",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/WSyBn/what-you-will-learn-in-this-lesson"
+  },
+  {
+    "id_sequencial": 133,
+    "nome_modulo": "Módulo 5",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Introduction to Entity Framework Core as ORM",
+    "status": "",
+    "metadados": "7 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/qBHnT/introduction-to-entity-framework-core-as-orm"
+  },
+  {
+    "id_sequencial": 134,
+    "nome_modulo": "Módulo 5",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Configuring Entity Framework Core in MVC Application",
+    "status": "",
+    "metadados": "3 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/e8nyF/configuring-entity-framework-core-in-mvc-application"
+  },
+  {
+    "id_sequencial": 135,
+    "nome_modulo": "Módulo 5",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Developing Application with Code First Approach",
+    "status": "",
+    "metadados": "9 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/pJNpA/developing-application-with-code-first-approach"
+  },
+  {
+    "id_sequencial": 136,
+    "nome_modulo": "Módulo 5",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Developing Application with Database First Approach",
+    "status": "",
+    "metadados": "7 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/WLwuL/developing-application-with-database-first-approach"
+  },
+  {
+    "id_sequencial": 137,
+    "nome_modulo": "Módulo 5",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Demo: Code First Approach CRUD Operations",
+    "status": "",
+    "metadados": "10 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/SwIPm/demo-code-first-approach-crud-operations"
+  },
+  {
+    "id_sequencial": 138,
+    "nome_modulo": "Módulo 5",
+    "tipo_conteudo": "Leitura",
+    "titulo": "Further Reading Entity Framework",
+    "status": "",
+    "metadados": "30 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/supplement/mYW89/further-reading-entity-framework"
+  },
+  {
+    "id_sequencial": 139,
+    "nome_modulo": "Módulo 5",
+    "tipo_conteudo": "Praticar tarefa",
+    "titulo": "Practice Quiz",
+    "status": "",
+    "metadados": "30 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/assignment-submission/lWWYe/practice-quiz"
+  },
+  {
+    "id_sequencial": 140,
+    "nome_modulo": "Módulo 5",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "What you will learn in this Lesson",
+    "status": "",
+    "metadados": "1 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/JmbrF/what-you-will-learn-in-this-lesson"
+  },
+  {
+    "id_sequencial": 141,
+    "nome_modulo": "Módulo 5",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Authentication in Web Application",
+    "status": "",
+    "metadados": "8 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/E5YMg/authentication-in-web-application"
+  },
+  {
+    "id_sequencial": 142,
+    "nome_modulo": "Módulo 5",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Authorization in Web Application",
+    "status": "",
+    "metadados": "3 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/s7Ogk/authorization-in-web-application"
+  },
+  {
+    "id_sequencial": 143,
+    "nome_modulo": "Módulo 5",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Identity Core Security in Asp.Net Core Application",
+    "status": "",
+    "metadados": "11 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/nAslL/identity-core-security-in-asp-net-core-application"
+  },
+  {
+    "id_sequencial": 144,
+    "nome_modulo": "Módulo 5",
+    "tipo_conteudo": "Leitura",
+    "titulo": "Learn More on Pipeline and Security",
+    "status": "",
+    "metadados": "30 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/supplement/v5NtI/learn-more-on-pipeline-and-security"
+  },
+  {
+    "id_sequencial": 145,
+    "nome_modulo": "Módulo 5",
+    "tipo_conteudo": "Praticar tarefa",
+    "titulo": "Practice Quiz",
+    "status": "",
+    "metadados": "30 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/assignment-submission/DVthN/practice-quiz"
+  },
+  {
+    "id_sequencial": 146,
+    "nome_modulo": "Módulo 5",
+    "tipo_conteudo": "Tarefa valendo nota",
+    "titulo": "Graded Quiz",
+    "status": "",
+    "metadados": "1h",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/assignment-submission/OG768/graded-quiz"
+  },
+  {
+    "id_sequencial": 147,
+    "nome_modulo": "Módulo 6",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "What you will learn in this Lesson",
+    "status": "",
+    "metadados": "1 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/ExFaK/what-you-will-learn-in-this-lesson"
+  },
+  {
+    "id_sequencial": 148,
+    "nome_modulo": "Módulo 6",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Introduction to SOA",
+    "status": "",
+    "metadados": "4 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/DBtUS/introduction-to-soa"
+  },
+  {
+    "id_sequencial": 149,
+    "nome_modulo": "Módulo 6",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Introduction to REST",
+    "status": "",
+    "metadados": "5 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/lIJgU/introduction-to-rest"
+  },
+  {
+    "id_sequencial": 150,
+    "nome_modulo": "Módulo 6",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Introduction to ASP.NET Web API",
+    "status": "",
+    "metadados": "3 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/9U5NX/introduction-to-asp-net-web-api"
+  },
+  {
+    "id_sequencial": 151,
+    "nome_modulo": "Módulo 6",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "WCF vs. Web API",
+    "status": "",
+    "metadados": "2 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/prdAF/wcf-vs-web-api"
+  },
+  {
+    "id_sequencial": 152,
+    "nome_modulo": "Módulo 6",
+    "tipo_conteudo": "Leitura",
+    "titulo": "Further Reading on Web API",
+    "status": "",
+    "metadados": "30 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/supplement/Mo4jd/further-reading-on-web-api"
+  },
+  {
+    "id_sequencial": 153,
+    "nome_modulo": "Módulo 6",
+    "tipo_conteudo": "Praticar tarefa",
+    "titulo": "Practice Quiz",
+    "status": "",
+    "metadados": "30 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/assignment-submission/WWUOX/practice-quiz"
+  },
+  {
+    "id_sequencial": 154,
+    "nome_modulo": "Módulo 6",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "What you will learn in this Lesson",
+    "status": "",
+    "metadados": "1 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/LZmfN/what-you-will-learn-in-this-lesson"
+  },
+  {
+    "id_sequencial": 155,
+    "nome_modulo": "Módulo 6",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Building ASP.NET Web API",
+    "status": "",
+    "metadados": "4 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/mqIFy/building-asp-net-web-api"
+  },
+  {
+    "id_sequencial": 156,
+    "nome_modulo": "Módulo 6",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Creating Database for Web API",
+    "status": "",
+    "metadados": "6 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/Hb9OB/creating-database-for-web-api"
+  },
+  {
+    "id_sequencial": 157,
+    "nome_modulo": "Módulo 6",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "ASP.NET Web API CRUD Operations",
+    "status": "",
+    "metadados": "11 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/Xg550/asp-net-web-api-crud-operations"
+  },
+  {
+    "id_sequencial": 158,
+    "nome_modulo": "Módulo 6",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Testing Web API Using Postman",
+    "status": "",
+    "metadados": "7 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/vx1n5/testing-web-api-using-postman"
+  },
+  {
+    "id_sequencial": 159,
+    "nome_modulo": "Módulo 6",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Consuming Web API in ASP.NET MVC",
+    "status": "",
+    "metadados": "8 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/tzMsn/consuming-web-api-in-asp-net-mvc"
+  },
+  {
+    "id_sequencial": 160,
+    "nome_modulo": "Módulo 6",
+    "tipo_conteudo": "Leitura",
+    "titulo": "Learn More on CRUD Operations",
+    "status": "",
+    "metadados": "30 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/supplement/8C8tg/learn-more-on-crud-operations"
+  },
+  {
+    "id_sequencial": 161,
+    "nome_modulo": "Módulo 6",
+    "tipo_conteudo": "Praticar tarefa",
+    "titulo": "Practice Quiz",
+    "status": "",
+    "metadados": "30 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/assignment-submission/gyNDB/practice-quiz"
+  },
+  {
+    "id_sequencial": 162,
+    "nome_modulo": "Módulo 6",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "What you will learn in this Lesson",
+    "status": "",
+    "metadados": "1 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/KEmG2/what-you-will-learn-in-this-lesson"
+  },
+  {
+    "id_sequencial": 163,
+    "nome_modulo": "Módulo 6",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Routing",
+    "status": "",
+    "metadados": "7 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/wAKjD/routing"
+  },
+  {
+    "id_sequencial": 164,
+    "nome_modulo": "Módulo 6",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Route Constraints",
+    "status": "",
+    "metadados": "7 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/MyHAG/route-constraints"
+  },
+  {
+    "id_sequencial": 165,
+    "nome_modulo": "Módulo 6",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Content Negotiation",
+    "status": "",
+    "metadados": "5 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/EsIMk/content-negotiation"
+  },
+  {
+    "id_sequencial": 166,
+    "nome_modulo": "Módulo 6",
+    "tipo_conteudo": "Vídeo",
+    "titulo": "Media Type Formatters",
+    "status": "",
+    "metadados": "2 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/lecture/6b0Ep/media-type-formatters"
+  },
+  {
+    "id_sequencial": 167,
+    "nome_modulo": "Módulo 6",
+    "tipo_conteudo": "Leitura",
+    "titulo": "Learn More on Routing and Binding",
+    "status": "",
+    "metadados": "30 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/supplement/wmcpa/learn-more-on-routing-and-binding"
+  },
+  {
+    "id_sequencial": 168,
+    "nome_modulo": "Módulo 6",
+    "tipo_conteudo": "Leitura",
+    "titulo": "Provide your feedback!",
+    "status": "",
+    "metadados": "10 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/supplement/Cmgbp/provide-your-feedback"
+  },
+  {
+    "id_sequencial": 169,
+    "nome_modulo": "Módulo 6",
+    "tipo_conteudo": "Praticar tarefa",
+    "titulo": "Practice Quiz",
+    "status": "",
+    "metadados": "30 min",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/assignment-submission/mk8iP/practice-quiz"
+  },
+  {
+    "id_sequencial": 170,
+    "nome_modulo": "Módulo 6",
+    "tipo_conteudo": "Tarefa valendo nota",
+    "titulo": "Graded Quiz",
+    "status": "",
+    "metadados": "1h",
+    "url": "https://www.coursera.org/learn/backend-development-with-asp-dot-net/assignment-submission/ghYNR/graded-quiz"
+  }
+]

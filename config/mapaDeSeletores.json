@@ -1,0 +1,44 @@
+{
+  "comentario_geral": "Mapa mestre final para o fluxo de 3 níveis e extração de dados.",
+
+  "navegacaoApresentacao": {
+    "identificadorRegex": "\\/learn\\/[a-zA-Z0-9-]+\\/?$",
+    "seletoresPrioritarios": [
+      "button[data-e2e='enroll-button']",
+      "a[data-click-key*='open_course_button']"
+    ],
+    "fallbackPorTexto": {
+      "seletorGenerico": "button.cds-button-primary, a.cds-button-primary",
+      "textos": ["Ir para o curso", "Go to Course", "Ir para o Curso"]
+    }
+  },
+  "navegacaoHome": {
+    "comentario": "NÍVEL 2: Página '/home'. Ação: Clicar em 'Retomar'.",
+    "identificadorURL": "/home",
+    "seletorGenericoBotao": "a.cds-button-primary, button.cds-button-primary",
+    "textosBotao": ["Retomar", "Resume"]
+  },
+  "identificacaoPaginaPlayer": {
+    "identificadorURL": ["/lecture/", "/supplement/", "/quiz/", "/assignment/"],
+    "containerPrincipal": "div.rc-ModuleLessons"
+  },
+  "navegacaoMenuPlayer": {
+    "botaoExpansaoModulo": "button.cds-AccordionHeader-button",
+    "atributoStatusExpansao": "aria-expanded"
+  },
+  "extracaoDadosItem": {
+    "comentario": "Seletores para a extração final de dados de cada item.",
+
+    "seletorTodosItensDeAula": "a[data-track-component='item_link']",
+
+    "seletorTitulo": "p[data-test='rc-ItemName']",
+    "seletorTipo": ".rc-WeekItemAnnotations > div:first-child",
+    "seletorMetadados": "span.rc-EffortText span[aria-hidden='true']",
+
+    "seletorStatusConcluido": "svg[data-testid='Success-icon']",
+    "seletorStatusBloqueado": "svg[data-testid='lock-icon']",
+
+    "xpathModuloPai": "./ancestor::div[contains(@class, 'rc-ItemGroupLesson')]",
+    "seletorNomeModulo": "h2 span.css-6ecy9b"
+  }
+}
